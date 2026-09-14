@@ -1,22 +1,23 @@
-Clinical Reasoning Simulator - Chapter 7 Cardiovascular System
+# Clinical Reasoning Simulator — Chapter 8 Gastrointestinal System
 
-How to run locally:
-1. Unzip the folder.
-2. Open index.html in Chrome, Edge, Firefox, or Safari.
-3. Click a game card to start.
+This GitHub-ready package contains four interactive dashboard-style games for the Chapter 8 Gastrointestinal System content.
 
-How to use in class:
-- Choose a condition from the arcade without telling students.
-- Project the game.
-- Have students discuss each decision and vote on the response.
-- Click their selected response and review the Herbie/Little Red feedback.
+## Files
+- index.html — arcade home page
+- game01-four-quadrant-mystery.html
+- game02-abdominal-pain-challenge.html
+- game03-stomach-bug-showdown.html
+- game04-heartburn-or-something-more.html
 
-GitHub Pages:
-1. Create a new GitHub repository.
-2. Upload all files from this folder.
-3. Go to Settings > Pages.
-4. Under Branch, choose main and /root.
-5. Save and open the generated GitHub Pages URL.
+## How to upload to GitHub Pages
+1. Download and unzip the package.
+2. Open your GitHub repository.
+3. Click Add file > Upload files.
+4. Upload all HTML files from this folder.
+5. Commit changes.
+6. Go to Settings > Pages.
+7. Choose Deploy from branch, branch main, folder /root.
+8. Save and wait for GitHub Pages to build.
 
-Content source:
-All educational content is limited to the uploaded Chapter 7 Cardiovascular System PowerPoint.
+## Source Validation
+The educational content was created only from the uploaded Chapter 8 Gastrointestinal System PowerPoint. The games do not add outside medical content. When a long-term prognosis is not provided by the uploaded material, the games state that the uploaded materials do not provide enough information.
